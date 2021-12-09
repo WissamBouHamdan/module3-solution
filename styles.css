@@ -1,0 +1,23 @@
+ .nav-link{
+    border: 1px;
+    border-color: grey;
+    text-align: center;
+    border-style:none none solid none ;
+
+}
+
+.container {
+  padding-top: 30px;
+  text-align: center;
+}
+section{
+  background-color: grey;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+.container p{
+  background-color: grey;
+  color: black;
+}
+
